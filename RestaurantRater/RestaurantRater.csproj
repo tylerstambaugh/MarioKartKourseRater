@@ -249,8 +249,9 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Kourse\Index.cshtml" />
     <Content Include="Views\Kourse\Create.cshtml" />
-    <Content Include="Views\Kourse\Details.cshtml" />
     <Content Include="Views\Kourse\Edit.cshtml" />
+    <Content Include="Views\Kourse\Delete.cshtml" />
+    <Content Include="Views\Kourse\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
